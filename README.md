@@ -67,8 +67,10 @@ I have worked to ensure color accuracy for the following GBC systems:
 I created this color combination because I liked how it looked:
   - Clear Cyan
 
-More Systems
+More Systems:
+
 I am not interested in making more of these for other systems at the moment. However, if a very high-resolution image is provided, I may find time to fix it up into an overlay.
 
 Usage:
+
 You may use these images in any compilation, granted that I am given credit for the editing of the image. I do not know who the original authors are of the original photographs. If you are the original author of the high-resolution picture, please contact me and I will add your name as author of the original image. Additionally, please contact me for any commercial use.
